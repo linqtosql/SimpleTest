@@ -1,0 +1,5 @@
+E:\Demo\ConsoleTest\WebSiteTest\bin\WebSiteTest.dll
+E:\Demo\ConsoleTest\WebSiteTest\bin\WebSiteTest.pdb
+E:\Demo\ConsoleTest\WebSiteTest\obj\Debug\WebSiteTest.dll
+E:\Demo\ConsoleTest\WebSiteTest\obj\Debug\WebSiteTest.pdb
+E:\Demo\ConsoleTest\WebSiteTest\obj\Debug\WebSiteTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="374BFE12-7947-47A7-81FE-5FAFE4720ABE" ModuleId="ConsoleTest" />
+  <Module PersistentId="D5AA9916-E11C-487A-911C-02A370B82972" ModuleId="MvcApplication" />
+  <Module PersistentId="9B9B456C-0BE9-43E0-BB92-D1360185D825" ModuleId="TestLucene" />
+  <Module PersistentId="70AEEA39-861A-489D-A794-E94DE1162BFB" ModuleId="TestRazor" />
+  <Module PersistentId="62F4D303-D76E-460F-9F21-1DC9AA2B2719" ModuleId="WebSiteTest" />
+  <Module PersistentId="E42BC94D-13C3-493C-AAE7-972CB90E1BCA" ModuleId="TtestWinForm" />
+  <Module PersistentId="374BFE12-7947-47A7-81FE-5FAFE4720ABE" ModuleId="ConsoleTest_1" />
+</Modules>

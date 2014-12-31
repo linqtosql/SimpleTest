@@ -1,0 +1,11 @@
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\TestRazor.exe.config
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\TestRazor.exe
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\TestRazor.pdb
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\RazorEngine.dll
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\System.Web.Razor.dll
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\RazorEngine.pdb
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\RazorEngine.xml
+E:\Demo\ConsoleTest\TestRazor\bin\Debug\System.Web.Razor.xml
+E:\Demo\ConsoleTest\TestRazor\obj\Debug\TestRazor.exe
+E:\Demo\ConsoleTest\TestRazor\obj\Debug\TestRazor.pdb
+E:\Demo\ConsoleTest\TestRazor\obj\Debug\TestRazor.csprojResolveAssemblyReference.cache

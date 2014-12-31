@@ -1,0 +1,10 @@
+E:\Demo\ConsoleTest\TtestWinForm\bin\Debug\TtestWinForm.exe.config
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.csprojResolveAssemblyReference.cache
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.Properties.Resources.resources
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.UserControl1.resources
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.csproj.GenerateResource.Cache
+E:\Demo\ConsoleTest\TtestWinForm\bin\Debug\TtestWinForm.exe
+E:\Demo\ConsoleTest\TtestWinForm\bin\Debug\TtestWinForm.pdb
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.exe
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.pdb
+E:\Demo\ConsoleTest\TtestWinForm\obj\Debug\TtestWinForm.Form1.resources
